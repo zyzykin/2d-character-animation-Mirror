@@ -29,9 +29,13 @@ This project is developed using the following technologies:
 ```
 2d-character-animation-Mirror/
 ├── Assets/          # Game assets including sprites and animations
+
 ├── Scripts/         # C# scripts for animation handling
+
 ├── Scenes/          # Unity scenes for demonstration
+
 └── README.md        # Project documentation
+
 ```
 
 ## 🖥️ Setup and Installation
